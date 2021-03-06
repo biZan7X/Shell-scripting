@@ -1,0 +1,1 @@
+grep -iw -e 'the' -e 'then' -e 'that' -e 'those' $1
